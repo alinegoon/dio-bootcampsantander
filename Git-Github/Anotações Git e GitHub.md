@@ -20,8 +20,4 @@
 
 - git clone : copia o repositório
 
-###### É meu primeiro contato com Git/Github.
-
-
-
-
+###### É meu primeiro contato com Git/Github e estou adorando
